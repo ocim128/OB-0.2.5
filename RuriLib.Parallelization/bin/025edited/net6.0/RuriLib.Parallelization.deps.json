@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RuriLib.Parallelization/1.0.6": {
+        "runtime": {
+          "RuriLib.Parallelization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RuriLib.Parallelization/1.0.6": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maula\\OneDrive\\Documents\\Desktop\\~EXP\\Openbullet2\\RuriLib.Parallelization\\RuriLib.Parallelization.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maula\\OneDrive\\Documents\\Desktop\\~EXP\\Openbullet2\\RuriLib.Parallelization\\RuriLib.Parallelization.csproj": {
+      "version": "1.0.6",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maula\\OneDrive\\Documents\\Desktop\\~EXP\\Openbullet2\\RuriLib.Parallelization\\RuriLib.Parallelization.csproj",
+        "projectName": "RuriLib.Parallelization",
+        "projectPath": "C:\\Users\\maula\\OneDrive\\Documents\\Desktop\\~EXP\\Openbullet2\\RuriLib.Parallelization\\RuriLib.Parallelization.csproj",
+        "packagesPath": "C:\\Users\\maula\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maula\\OneDrive\\Documents\\Desktop\\~EXP\\Openbullet2\\RuriLib.Parallelization\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maula\\OneDrive\\Documents\\Desktop\\~EXP\\Openbullet2\\NuGet.Config",
+          "C:\\Users\\maula\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
